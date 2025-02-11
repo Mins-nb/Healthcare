@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class GeminiService {
-  static const String apiKey = 'AIzaSyDvfmgK3gngrigyrgmWY2XkSXsYa0ePQoE'; // API 키를 안전하게 관리하세요.
+  static const String apiKey = 'MYAPIKEY';
   static const String apiUrl =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
