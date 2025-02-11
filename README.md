@@ -12,3 +12,9 @@
  ├── services
  │    ├── gemini_service.dart
 ```
+
+## 작동 예시
+
+![reps](reps.gif)
+
+![feedback](AIfeedback.gif)
